@@ -9,11 +9,11 @@ Edite o arquivo `script.js`:
 ```js
 const CONFIG = {
   siteUrl: "https://teachervitoria.online",
-  whatsappNumber: "5500000000000",
+  whatsappNumber: "5551995070937",
   whatsappMessage: "Olá, Teacher Vitória! Vim pelo link e gostaria de saber mais sobre as aulas de inglês."
 };
 ```
 
-Troque `5500000000000` pelo número real no formato internacional.
+Troque `5551995070937` pelo número real no formato internacional.
 Exemplo para Brasil: `5548999999999`.
 # link-tree-teacher-vitoria

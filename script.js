@@ -1,6 +1,6 @@
 const CONFIG = {
   siteUrl: "https://teachervitoria.online",
-  whatsappNumber: "5500000000000",
+  whatsappNumber: "5551995070937",
   whatsappMessage: "Olá, Teacher Vitória! Vim pelo link e gostaria de saber mais sobre as aulas de inglês."
 };
 
